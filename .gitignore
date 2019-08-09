@@ -1,0 +1,7 @@
+early_fusion_weights/*
+model_fusion_weights/*
+unimodal_weights/*
+late_fusion_weights/*
+core.31575
+.ipynb_checkpoints/*
+__pycache__/*
